@@ -133,7 +133,7 @@ html {
 }
 
 .close:hover {
-    color: greenyellow;
+    color: rgb(223, 16, 16);
     cursor: pointer;
 }
 
